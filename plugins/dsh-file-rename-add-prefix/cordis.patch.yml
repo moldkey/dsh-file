@@ -1,0 +1,4 @@
+# 文件工具：rename add prefix
+- insert:
+    - id: dsh-file-rename-add-prefix
+      name: "dsh-file-rename-add-prefix"

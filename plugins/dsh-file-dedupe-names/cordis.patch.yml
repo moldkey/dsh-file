@@ -1,0 +1,4 @@
+# 文件工具：dedupe names
+- insert:
+    - id: dsh-file-dedupe-names
+      name: "dsh-file-dedupe-names"

@@ -1,0 +1,4 @@
+# 文件工具：rename spaces
+- insert:
+    - id: dsh-file-rename-spaces
+      name: "dsh-file-rename-spaces"

@@ -1,0 +1,4 @@
+# 文件工具：sanitize filename
+- insert:
+    - id: dsh-file-sanitize-filename
+      name: "dsh-file-sanitize-filename"

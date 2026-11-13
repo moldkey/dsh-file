@@ -1,0 +1,16 @@
+{
+  "name": "dsh-file-windows-to-unix",
+  "version": "0.1.0",
+  "description": "文件/路径：windows to unix",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": ["lib", "cordis.patch.yml", "README.md"],
+  "keywords": ["dsh", "dsh-plugin", "file", "path", "filename", "windows_to_unix"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-plugins.git"
+  },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } },
+  "engines": { "dsh": ">=0.2.0-rc.2" }
+}

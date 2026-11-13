@@ -1,0 +1,4 @@
+# 文件工具：basename no ext
+- insert:
+    - id: dsh-file-basename-no-ext
+      name: "dsh-file-basename-no-ext"

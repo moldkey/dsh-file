@@ -1,0 +1,4 @@
+# 文件工具：path normalize
+- insert:
+    - id: dsh-file-path-normalize
+      name: "dsh-file-path-normalize"

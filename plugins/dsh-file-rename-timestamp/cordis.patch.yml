@@ -1,0 +1,4 @@
+# 文件工具：rename timestamp
+- insert:
+    - id: dsh-file-rename-timestamp
+      name: "dsh-file-rename-timestamp"
